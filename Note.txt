@@ -1,0 +1,5 @@
+Sử dụng danh sách kề để lưu trữ các đỉnh
+Đếm thành phần liên thông rồi mới đi thăm tất cả các đỉnh liên quan
+Sử dụng con trỏ List để lưu trữ các định theo danh sách kề: List<long long>* graph
+Khi sử dụng vector<vector<long long>> -> bị Memory Limit Exceeded
+Nguồn tham khảo: GeeksforGeeks: https://www.geeksforgeeks.org/program-to-count-number-of-connected-components-in-an-undirected-graph/
